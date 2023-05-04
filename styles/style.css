@@ -90,13 +90,12 @@
 }
 
 .two-columns{
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   display: flex;
   width: 80%;
   padding-top: 100px;
   padding-bottom: 100px;
-  margin: 0 auto;
   flex-direction: space-between;
 }
 
